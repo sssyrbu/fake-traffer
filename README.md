@@ -1,2 +1,2 @@
 # fake-traffer
-Generate fake user traffic for any website
+Generate fake user traffic for any website. Windows only.
